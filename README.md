@@ -34,13 +34,14 @@
 
 # My repositories you might be interested (will be updated)
 
-### Back End
+### Web
 
-- ...
-
-### Web Front End
-
-- ...
+- Back End
+    - ...  
+- Front End
+    - ... 
+- Both
+    - ... 
 
 ### Learning
 
