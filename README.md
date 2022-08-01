@@ -5,9 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=servercetin" alt="servercetin" /></a> </p>
 
-- 📝 I write articles on [https://servercetin.medium.com/](https://servercetin.medium.com/)
+- 🎓 I'm currently studying for a bachelor's degree in Yildiz Technical University, Computer Engineering Department
 
-- 📫 How to reach me **hello@servercet.in / merhaba@servercet.in**
+- 🎓 I graduated from Istanbul Gelisim University, Computer Programming Department
+
+- 💻 Personal website [servercet.in](https://servercet.in)
+
+- 📝 I write articles on [Medium](https://servercetin.medium.com/)
+
+- 📫 How to reach me: **hello@servercet.in / merhaba@servercet.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
