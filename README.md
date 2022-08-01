@@ -1,4 +1,4 @@
-user<h1 align="center">Hi there!👋, I'm Server ÇETİN</h1>
+<h1 align="center">Hi there!👋, I'm Server ÇETİN</h1>
 <h3 align="center">Full stack Web developer, also interested in Data Science, from Turkey,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=servercetin&label=Profile%20views&color=0e75b6&style=flat" alt="servercetin" /> </p>
