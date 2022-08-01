@@ -5,7 +5,7 @@
 
 
 
-- 🎓 I'm currently studying for a bachelor's degree in Yildiz Technical University, Computer Engineering Department
+- 🎓 I'm currently studying for a bachelor's degree in Yildiz Technical University, Statistics Department
 
 - 🎓 I graduated from Istanbul Gelisim University, Computer Programming Department
 
