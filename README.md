@@ -34,22 +34,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=servercetin&" alt="servercetin" /></p>
 
-
-# My repositories you might be interested (will be updated)
-
-### Web
-
-- Back End
-    - ...  
-- Front End
-    - ... 
-- Both
-    - ... 
-
-### Learning
-
-- ...
-
-### Other
-
-- ...
