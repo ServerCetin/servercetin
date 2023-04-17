@@ -14,7 +14,7 @@ let techStack = {
     baas: ["Firebase"],
     databases: ["MongoDB"],
     data: ["Pandas", "Numpy", "Matplotlib"],
-    others: ["Postman"]
+    others: ["ChatGPT", "Postman"]
 };
 
 const email = isUserTurkish ? "merhaba@servercet.in" : "hello@servercet.in";
