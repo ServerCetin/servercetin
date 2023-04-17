@@ -8,7 +8,7 @@ let techStack = {
     languages: ["JavaScript", "TypeScript", "Python"],
     frameworks: ["React", "Next.js", "Express"],
     css: ["Tailwind CSS"],
-    stateManagement: ["Redux", "ContextAPI"],
+    stateManagement: ["ContextAPI"],
     testing: ["Jest"],
     versionControl: ["Git", "GitHub"],
     baas: ["Firebase"],
