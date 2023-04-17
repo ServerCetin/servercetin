@@ -24,10 +24,10 @@ const socialMedia = {
     twitter: "https://twitter.com/servercetin",
     medium: "https://servercetin.medium.com/",
     email: email
-}
+};
 
-let interests = ['Piano', 'Nature Hikes']
-interests.push('Camping')
+let interests = ['Piano', 'Nature Hikes'];
+interests.push('Camping');
 ```
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=servercetin&label=Profile%20views&color=0e75b6&style=flat" alt="servercetin" /> </p>
